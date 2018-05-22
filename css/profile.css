@@ -1,0 +1,52 @@
+header{
+  height: 120px;
+  width: 1280px;
+  background-color: black;
+}
+
+header p{
+  color: white;
+  font-size: 60px;
+  font-family: cursive;
+  float: left;
+}
+
+
+a{
+  float: left;
+  list-style: none;
+  color: white;
+  padding: 45px;
+}
+
+.contents{
+  color: #9B9B9B;
+  background-color: black;
+  padding: 100px;
+}
+
+.img1{
+  float: right;
+  width: 300px;
+  height: 300px;
+  margin-right: 200px;
+  border-radius: 50%;
+}
+
+.figure2 img{
+  float: right;
+  width: 180px;
+  height: 180px;
+  margin-top: 300px;
+  margin-left: 100px;
+  border-radius: 50%;
+}
+
+.img3{
+  float: right;
+  width: 250px;
+  height: 250px;
+  margin-top: 0px;
+  margin-left: 500px;
+  border-radius: 50%;
+}

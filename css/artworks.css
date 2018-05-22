@@ -1,0 +1,20 @@
+header{
+  height: 120px;
+  width: 1280px;
+  background-color: black;
+}
+
+header p{
+  color: white;
+  font-size: 60px;
+  font-family: cursive;
+  float: left;
+}
+
+
+a{
+  float: left;
+  list-style: none;
+  color: white;
+  padding: 45px;
+}

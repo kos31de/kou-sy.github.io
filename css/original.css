@@ -1,0 +1,39 @@
+
+header{
+  height: 120px;
+  width: 1280px;
+  background-color: black;
+}
+
+header p{
+  color: white;
+  font-size: 60px;
+  font-family: cursive;
+  float: left;
+}
+
+
+a{
+  float: left;
+  list-style: none;
+  color: white;
+  padding: 45px;
+}
+
+.img_hover{
+  height: 770px;
+  width: 1280px;
+  background-color: black;
+}
+
+.img1, .img2{
+  position:absolute;
+}
+
+
+
+footer{
+  height:100px;
+  width:1280px;
+  background-color: black;
+}
